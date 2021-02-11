@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/abdallllaa/academy.git/static/css/main.8a52883a.chunk.css",
+    "main.js": "/abdallllaa/academy.git/static/js/main.5f3a6e03.chunk.js",
+    "main.js.map": "/abdallllaa/academy.git/static/js/main.5f3a6e03.chunk.js.map",
+    "runtime-main.js": "/abdallllaa/academy.git/static/js/runtime-main.d3730907.js",
+    "runtime-main.js.map": "/abdallllaa/academy.git/static/js/runtime-main.d3730907.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/abdallllaa/academy.git/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.dd042065.chunk.js": "/abdallllaa/academy.git/static/js/2.dd042065.chunk.js",
+    "static/js/2.dd042065.chunk.js.map": "/abdallllaa/academy.git/static/js/2.dd042065.chunk.js.map",
+    "static/js/3.5d458043.chunk.js": "/abdallllaa/academy.git/static/js/3.5d458043.chunk.js",
+    "static/js/3.5d458043.chunk.js.map": "/abdallllaa/academy.git/static/js/3.5d458043.chunk.js.map",
+    "index.html": "/abdallllaa/academy.git/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/abdallllaa/academy.git/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.8a52883a.chunk.css.map": "/abdallllaa/academy.git/static/css/main.8a52883a.chunk.css.map",
+    "static/js/2.dd042065.chunk.js.LICENSE.txt": "/abdallllaa/academy.git/static/js/2.dd042065.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/abdallllaa/academy.git/static/media/img-home.e20deff8.jpg",
+    "static/media/logo.f896c4b0.png": "/abdallllaa/academy.git/static/media/logo.f896c4b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3730907.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.dd042065.chunk.js",
+    "static/css/main.8a52883a.chunk.css",
+    "static/js/main.5f3a6e03.chunk.js"
+  ]
+}
