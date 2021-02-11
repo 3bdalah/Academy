@@ -24,7 +24,7 @@ export default function Navbar() {
         <nav>
         <div className='nav-center'>
           <div className='nav-header'>
-          <Link to="/"><img src={Logo} className='logo' alt='logo' /></Link>
+          <Link to="https://abdallllaa.github.io/"><img src={Logo} className='logo' alt='logo' /></Link>
               <button className='nav-toggle' onClick={toggleLinks}>
                 <FaBars />
               </button>
