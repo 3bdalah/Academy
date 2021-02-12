@@ -1,9 +1,11 @@
 import React from 'react'
-
+import {Link} from "react-router-dom";
 export default function Notfound() {
     return (
-        <div>
-            nout found
+        <div className="not-found">
+            <Link to="/home" >
+                Back To Home 
+            </Link>
         </div>
     )
 }
