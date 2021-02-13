@@ -1,13 +1,8 @@
 import React, { useState } from 'react'
 import Faq from "./Faq";
-// import {FeildContext} from "../../context/feilds";
 import faq from "../../context/FaqData";
 export default function FaqList() {
-      const [FAQ,setFAQ] = useState(faq);
-      console.log("F");
-      console.log(FAQ);
-      console.log("F");
-      
+      const [FAQ] = useState(faq);
     return (
         <section className="faq">
            <div className="container">

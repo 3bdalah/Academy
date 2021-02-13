@@ -39,7 +39,7 @@ export default items = [
     image:
       "https://i.ibb.co/vmQNnBt/android.png",
     empty_place: 10,
-    skills:["Html","Css","pugJS","Sass"],
+    skills:["Html","Css","Kotline","Java"],
     description:"Lorem ipsum dolor sit amet, Tu vero, inquam, ducas licet, si sequetur; Quacumque enim ingredimur, in aliqua historia vestigium ponimus. Sine ea igitur iucunde negat posse se vivere? Illud urgueam, non intellegere eum quid sibi dicendum sit, cum dolorem summum malum esse dixerit. Duo Reges: constructio interrete. Et hercule-fatendum est enim, quod sentio -mirabilis est apud illos contextus rerum. Qui ita affectus, beatum esse numquam probabis; Si longus, levis;"
   
   }

@@ -17,11 +17,7 @@ export default function Feilddetails() {
                 </div>
                 <div className="col-lg-8 col-md- 6 col-sm-12 content">
                 <strong className="price">Price : ${price} </strong>
-                <p className="desc">Description {description}</p>
-                
-                   {/* <strong>الاماكن الفارغة {empty_place}</strong> */}
-                   
-                    
+                <p className="desc">Description {description}</p> 
                    <br/>
                     {skills.map(item=>{
                         return <p className={`skill ${item}`}>{item}</p>
@@ -32,10 +28,7 @@ export default function Feilddetails() {
                         <Link to={`${id}/contact`}>
                 Enroll</Link>
                 </button>
-                
                 </div>
-              
-                
               </div>
             </div>
         </section>
