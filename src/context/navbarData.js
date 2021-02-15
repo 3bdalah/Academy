@@ -1,7 +1,4 @@
-
-import { FaBehance, FaFacebook, FaLinkedin, FaTwitter } from 'react-icons/fa';
-let links;
-export default links = [
+const links = [
   {
     id: 1,
     url: '/',
@@ -20,3 +17,4 @@ export default links = [
 
   
 ];
+export default  links;

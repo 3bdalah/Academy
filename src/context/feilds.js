@@ -6,8 +6,8 @@ export const FeildContext = React.createContext();
 
 // export const ProductContext = React.createContext();
 export default function FeildProvider({children}) {
-    const [cart,setCart] = React.useState(locaCart);
-    const [serv,setServ] = React.useState(service);
+    const [cart] = React.useState(locaCart);
+    const [serv] = React.useState(service);
 
   
     return (

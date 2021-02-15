@@ -1,5 +1,4 @@
-let items;
-export default items = [
+const items = [
   {
     id: 1,
     title: "Back End",
@@ -44,3 +43,4 @@ export default items = [
   
   }
 ];
+export default items;

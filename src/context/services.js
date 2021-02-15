@@ -1,8 +1,6 @@
 import React from "react";
-import { FaFacebook, FaTwitter, FaLinkedin } from "react-icons/fa";
 import {GiAbstract020,GiAbstract034,GiAbstract035} from "react-icons/gi"
-let service;
-export default   service = [
+const  service = [
   {
     id: 1,
     title:"Fast",
@@ -22,3 +20,4 @@ export default   service = [
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Nummus in Croesi divitiis obscuratur."
   }
 ];
+export default  service;
